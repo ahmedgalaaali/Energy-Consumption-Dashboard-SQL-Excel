@@ -1,4 +1,5 @@
 # Energy-Consumption-Dashboard-SQL-Excel
+**Take a look at the [Energy Consumption Dashboard Video](https://github.com/ahmedgalaaali/Energy-Consumption-Dashboard-SQL-Excel/blob/987f378eed4a0850aaad11143ec8e63aaf3c3ba6/Dashboard%20Sped%20Up.mp4)**
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;" align="center">
   <div style="display: flex; gap: 10px;">
