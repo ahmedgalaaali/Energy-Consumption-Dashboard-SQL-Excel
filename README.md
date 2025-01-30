@@ -26,6 +26,12 @@ This is a complete project of creating an interactive dashboard using a combinat
 - A trend line chart of consumption.
 - A column chuart of buildings consumption
 - A map chart of consumption per state
+
+**Having aquired these tasks, I headed to my preferred white board website [Miro](https://miro.com/app/dashboard/?gclid=Cj0KCQiA4-y8BhC3ARIsAHmjC_GVBqmr6Q70XkUXTQOmCfSkRYlPFRPUO5Sxp_fk-F-GgBhSi0O5KEIaAjGlEALw_wcB&adgroupid=142344724793&utm_custom=18261731950&gad_source=1&utm_campaign=S%7CGOO%7CBRN%7CWW%7CEN-EN%7CBrand%7CExact&utm_term=miro&location=9218366&utm_source=google&utm_medium=cpc&utm_adgroup=&device=c&matchtype=e&gclsrc=aw.ds&utm_content=667973353900) and initiated designing the UI of the needed dashboard**
+<div align="center">
+  <img src="https://github.com/ahmedgalaaali/Energy-Consumption-Dashboard-SQL-Excel/blob/751ec7bc92d049d843d082be6d81ff2068a3db2d/Energy%20Consumption%20UI.jpg" width="600">
+</div>
+
 ## Database ERD
 ```mermaid
 erDiagram
