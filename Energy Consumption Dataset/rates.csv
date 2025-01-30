@@ -1,0 +1,16 @@
+Year,Energy Type,Price Per Unit
+2016,Water,$0.05 
+2017,Water,$0.06 
+2018,Water,$0.06 
+2019,Water,$0.07 
+2020,Water,$0.07 
+2016,Gas,$1.00 
+2017,Gas,$1.10 
+2018,Gas,$1.21 
+2019,Gas,$1.33 
+2020,Gas,$1.46 
+2016,Electricity,$0.08 
+2017,Electricity,$0.09 
+2018,Electricity,$0.10 
+2019,Electricity,$0.11 
+2020,Electricity,$0.12 
