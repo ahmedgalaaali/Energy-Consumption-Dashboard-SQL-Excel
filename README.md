@@ -1,8 +1,14 @@
 # Energy-Consumption-Dashboard-SQL-Excel
 
-<div style="display: flex; justify-content: center; gap: 10px;" align="center">
-  <img src="https://github.com/user-attachments/assets/e2b7b0d2-628e-42be-913c-a8efa5d908a4" width="500">
-  <img src="https://github.com/ahmedgalaaali/Energy-Consumption-Dashboard-SQL-Excel/blob/751ec7bc92d049d843d082be6d81ff2068a3db2d/Energy%20Consumption%20UI.jpg" width="465">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;" align="center">
+  <div style="display: flex; gap: 10px;">
+    <img src="https://github.com/ahmedgalaaali/Energy-Consumption-Dashboard-SQL-Excel/blob/751ec7bc92d049d843d082be6d81ff2068a3db2d/Energy%20Consumption%20UI.jpg" width="430">
+    <img src="https://github.com/user-attachments/assets/e2b7b0d2-628e-42be-913c-a8efa5d908a4" width="450">
+  </div>
+  <div style="display: flex; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/6abb78cb-0311-4273-83c4-80846fff4322" width="450">
+    <img src="https://github.com/user-attachments/assets/0924b86d-431d-4342-83b1-de2bdafe9732" width="450">
+  </div>
 </div>
 
 ## Content
