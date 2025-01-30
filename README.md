@@ -1,4 +1,17 @@
 # Energy-Consumption-Dashboard-SQL-Excel
+
+<div style="display: flex; justify-content: center; gap: 10px;" align="center">
+  <img src="https://github.com/user-attachments/assets/e2b7b0d2-628e-42be-913c-a8efa5d908a4" width="500">
+  <img src="https://github.com/ahmedgalaaali/Energy-Consumption-Dashboard-SQL-Excel/blob/751ec7bc92d049d843d082be6d81ff2068a3db2d/Energy%20Consumption%20UI.jpg" width="465">
+</div>
+
+## Content
+1. [Overview](#overview)
+2. [Database ERD](#database-erd)
+3. [Data Preparation](#data-preparation)
+4. [Data Summarization](#data-summarization)
+5. [Data Visualization](#data-visualization)
+
 ## Overview
 This is a complete project of creating an interactive dashboard using a combination of the magic of SQL, Excel and Power Pivot. The dataset used is a real world data of the consumption of energy of 11 buildings distributed in 5 states of the USA along 4 years (2016-2019). The goal was creating a dashboard that shows a bunsh of info about the conumption of (Water, Electricity and Gas) of these buildings. **The task was to answer some question and draw some charts to visualize and summarize the data:**
 - What is the total price paid per element?
@@ -64,7 +77,7 @@ erDiagram
     rates ||--|{ gas_consumption_summary : calculates_price
 ```
 ## Data Preparation
-### 1. SQL Quering
+### 1. SQL Querying
 ---
 Before we dive into the querying phase we have a very improtant question. **Why the use of SQL database while we can handle the data using a simple Excel workbook?**
 > Well, let's suppose we have a bigger size of data that can't be handled with Excel sheets, as the total number of rows that Excel can handle is 1,044,000 rows That's not enough for big data querying, so that's why SQL databases are efficient in managing the data.  We can connect them to whatever software we use to visualize our insights, whether **Excel, Power BI, or Tableau.**  
@@ -246,7 +259,7 @@ To answer the project related questions, and using the help of the connection cr
       <img src="https://github.com/user-attachments/assets/1ad2e16e-50e4-4069-9f1b-5aa75368065f" width="300">
   </div>
 
-**Using the same method, I create the same Pivot Tables for each of the created tables in the dataset
+**Using the same method, I create the same Pivot Tables for each of the created tables in the dataset**
 ---
 ## Data Visualization
 Finaly, I created three customized dashboards and a main page to navigate through the dashboards pages using buttons to provide the user with suitable and customized user experience, the dashboards include:
@@ -258,7 +271,7 @@ Finaly, I created three customized dashboards and a main page to navigate throug
 - Map Chart
 ---
 ### Dasboards Linking
-Using the power of **LLMs and  Prompt Engineering**, I asked the ChatGPT to create a `VBA` Code that creates **macros** that I can further assign to the shapes to navigate through the dashboards.**
+Using the power of **LLMs and  Prompt Engineering**, I asked the ChatGPT to create a `VBA` Code that creates **macros** that I can further assign to the shapes to navigate through the dashboards.
 > The purpose of this step is to create make a good visual of the dashboard to change the theme according to what the dashboard is showing
 
 That's that `VBA` code:
@@ -300,5 +313,5 @@ Electricity Consumption Dashboard
 Gas Consumption Dashboard
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ee7ae755-6a69-4808-b5d0-cf3acb4a51ab" width="800">
+  <img src="https://github.com/user-attachments/assets/0924b86d-431d-4342-83b1-de2bdafe9732" width="800">
 </div>
